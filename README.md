@@ -12,7 +12,7 @@ Ciclo de vida de Android y registrar mensajes en la consola de Android (Logcat).
 
 ## Capturas de pantalla
 
-![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo-candia_dessert/blob/main/imagen01.jpeg)
+![Imagen con texto en pantalla](https://github.com/dannyredpy/ipdm-oto-2025--osvaldo-candia_dessert/blob/main/IMAGE1.jpeg)
 
 ## Cómo ejecutar
 ===================================
